@@ -1,7 +1,7 @@
 # Day11assignment
 This is a simple HTML and JavaScript code that allows the user to enter a keyword and then displays the keyword on the screen.
 
-## Hosted link:
+## Hosted link: https://praveshjangid2001.github.io/Day11assignment/
 
 
 ## Step 1: HTML Code
